@@ -1,12 +1,16 @@
 timezone: "Asia/Tokyo"
 categories:
   建築:
-    # ここに日本語のRSS URLを列挙してください（例）
-    # - "https://example.com/architecture/rss"
-    # - "https://example.org/design/feed"
-    - "https://example.com/sample-architecture-rss"  # TODO: 差し替え
+    - "https://news.google.com/rss/search?q=建築&hl=ja&gl=JP&ceid=JP:ja"
+    - "https://news.google.com/rss/search?q=都市計画&hl=ja&gl=JP&ceid=JP:ja"
+    - "https://news.google.com/rss/search?q=建築%20設計&hl=ja&gl=JP&ceid=JP:ja"
+    - "https://news.google.com/rss/search?q=建設%20業界&hl=ja&gl=JP&ceid=JP:ja"
+    - "https://news.google.com/rss/search?q=木造%20RC%20鉄骨%20建築&hl=ja&gl=JP&ceid=JP:ja"
+    # 個別メディア（WordPress系の例）
+    - "https://architecturephoto.net/feed/"
   経済:
-    # 例
-    # - "https://example.com/economy/rss"
-    # - "https://example.org/finance/feed"
-    - "https://example.com/sample-economy-rss"       # TODO: 差し替え
+    - "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ja&gl=JP&ceid=JP:ja"
+    - "https://news.google.com/rss/search?q=日本%20経済&hl=ja&gl=JP&ceid=JP:ja"
+    - "https://news.google.com/rss/search?q=インフレ&hl=ja&gl=JP&ceid=JP:ja"
+    - "https://news.google.com/rss/search?q=金融政策&hl=ja&gl=JP&ceid=JP:ja"
+    - "https://news.google.com/rss/search?q=賃上げ%20物価&hl=ja&gl=JP&ceid=JP:ja"
