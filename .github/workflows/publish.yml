@@ -1,0 +1,27 @@
+name: Publish digest
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # JST 07:00（UTC 22:00）
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r app/requirements.txt
+      - run: python app/ingest.py --sources app/sources.yaml --out docs/data/latest.json
+      - name: Commit & Push
+        run: |
+          git config user.email "bot@users.noreply.github.com"
+          git config user.name "news-digest-bot"
+          git add docs/data/latest.json
+          git diff --cached --quiet || git commit -m "chore: update digest"
+          git push
