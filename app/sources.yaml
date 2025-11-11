@@ -1,0 +1,12 @@
+timezone: "Asia/Tokyo"
+categories:
+  建築:
+    # ここに日本語のRSS URLを列挙してください（例）
+    # - "https://example.com/architecture/rss"
+    # - "https://example.org/design/feed"
+    - "https://example.com/sample-architecture-rss"  # TODO: 差し替え
+  経済:
+    # 例
+    # - "https://example.com/economy/rss"
+    # - "https://example.org/finance/feed"
+    - "https://example.com/sample-economy-rss"       # TODO: 差し替え
