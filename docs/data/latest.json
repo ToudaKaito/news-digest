@@ -1,9 +1,731 @@
 {
   "version": "1",
-  "generatedAt": "2025-11-11T05:47:34.753402+00:00",
+  "generatedAt": "2025-11-11T06:13:55.874264+00:00",
   "timezone": "Asia/Tokyo",
   "categories": {
-    "建築": [],
-    "経済": []
+    "建築": [
+      {
+        "id": "b5e07bd7d5764473",
+        "title": "カヤン洞CJ用地の用途を知識産業センターから共同住宅に変更へ - CHOSUNBIZ - Chosun Biz",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlN3RExLYUJCM1IwR0tQZFBsaFE0bEY5YWFtU3dMWjNzSEFTMjU0cTJMUUV6UlhCVlN0c2VLOXNBV0tqZ3JSOGVOZVZMLWE0T1dxUlNUODdaNmtxR2wtajRYNUh4ZjNDVnlHNmc5YXJLZ2IxaFZtQkc5RjltNTVqdXctb07SAZgBQVVfeXFMUGp3M3M5a1hELXg2M1pLc3lTZVktOTdXYjNDUVVQUjhnSVZibDdBZ1k1NnFnRjV3R1dtT0R2N3FtRXFrTkJyaEFWZFZnekFYSXl0N0NfbzU3a2FiU0hfNERld2F4V0huSzdheDN1R2tkOWFkNXFuLWFDWlRhSG1VRzZVaXRtSklfR2tTemV6ODc2RDdvaU44d3o?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 06:03:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "9a844582a74c1182",
+        "title": "アントール全支店に施工管理アプリ「Kizuku／キズク」導入 - newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PMUUwM1E0U3didFVLOG96XzJVRnBETHJEbUxiUGhZVTcwbzVxbE1aOFcxMkhzU0ZjMlRxMWt1RTNXdWNKTGt2QU5fTkhqbkE?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 06:00:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "d40ae83f4000bed6",
+        "title": "X+Livingが天津に書店「鐘書閣」を設計 レンガとスチールで境界を曖昧にする空間 - axismag.jp",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZ24xbWY5Yi1SbmRUNkxURloxeklnV29pYWlEc0lnT2JxdnJIMUJ0c1RnenpKT3lQbzk0bURDcDg2SE1XUmRXaVdOQnBBZXpGeVZkYVN5MHZxOWVQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 05:53:05 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "ec59a0d65cf70ee3",
+        "title": "飛雲崖古建築群のイチョウ、見頃を迎える 中国・貴州省黄平県 - au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzMkpLSzZTYnlRZGhXRTNCQmdXc0xXQ21KOFEwc0tqcWc5NlRVQ2Z6c2hUMjVEd254WXJUa3FqSmJkRXp0UGhMY3NiSkJDdlBCWlBrOV9UNTd4N3lZX3JES2dxWGJKdkJpSl96cktVV2tLWjlGT05wNWl0UQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 05:40:12 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "535ca11085a95db2",
+        "title": "横浜市建築局の優良建築設計者 最優秀賞に小泉アトリエ 優秀賞に４者 - 建通新聞",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU19Yc1lFWjd4bTRBUE5HZ2NScGFJeGdXVGI5YVl6YTZsejVaWEg5ejhYS3FaVnlGRG9zeDcyMEtTVUZBbFRsN01kQjVzTmpoc0laZTJIV21NNmhUbWZDQnZHbWxrbkJYblFMOXZoQTlkTncyb3RrNHJVNGxyNm5MWQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 05:32:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "58cb5c164a728e62",
+        "title": "近大産業理工学部が「近大レクチャーシリーズVol.05」を実施 建築家・京都工芸繊維大学教授 魚谷繁礼氏による特別講義 - zakⅡ",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmalA5YTZ2bERwdm5zeWJqUXVTQnpad2liLUN4eGV2SkhMejhudnp5UzdCWlN1QVUxSHQ4d05WSVRuMGF4dlBwMlRGRTFjYThqaUxFaU80SnZUYXVkSWpRMWs1NTF2cHBqVXhOYTZ6bFJFbHp4MHpEekVGOHA2dw?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 05:00:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "3e2430b7c76603b0",
+        "title": "OPEN HOUSE『紫翠の家』阿賀野市 - things-niigata.jp",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwdnpMeGNwLW5MMlcxZjhIb1d3OVpuUkNlYlZxdkY3OEUxMUs1eVlMaktMMjloZkgtZXJmT2U0MF9ZTF9pS1ByenRWV0g4RmxKbVRDckZZZTRPd0VuVkNzWm9DT0lQVzZGVkE?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:49:58 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "b61aa20745a44c7e",
+        "title": "足場工事ドットコム譲渡で新たな建設業界の地図が描かれる - サードニュース",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1scGhFYncxUzMtdEg4UF9NUWVkbTVEU0l4R1JiLWlKdVQtT2RtUVNNXzNpendzRldpR0xhbzhzTURpMG9uVzNSNG8yeFowajhQZGw4Nl9Sc1dQaFQ5eUJmWXVlZ0hCRlFLUi14V3dvc3BSOUZXNnEway13?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:45:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "e3f7a175356bfa50",
+        "title": "BIGが中国・蘇州に設計した、波打つ屋根が建築と自然をつなぐ〈蘇州現代美術館〉 - TECTURE MAG",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zX0g0bGw3SlpCV3B5b3NfZEN2eTNodXFHUDBHcXBOTk1MOGNOY2pzdVgyWjktTnZkSmcwXzFyTnVtRnBKcGE4OEZqeXREcnQwSklKODhvQjlwcUdLRXdaTlJR?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:43:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "42d6bdd24b035b28",
+        "title": "エヌ・シー・エヌ、非住宅木造建築が売上の36％に拡大。建築基準法改正でSE構法の需要増加を見込む - logmi Finance",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBiZng4OUQxRkdSNjFhSlZ3cmxoMjJTTjJ4anV0SzRSZ3JMSFVwUWpmY213bWhhbFI4UUg1bV94STZhUi1mY0E?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:29:33 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "065da5a5ffd08198",
+        "title": "株式会社ウィズモー、YouTubeチャンネルをリニューアルし「工務店密着動画」企画を始動。採用の壁を突破する、”共感”起点の新たな一手 - PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zMi1PVFhrdl94MjNVWXR6b0dlQ3dSWmZFUC1VR0tfRk5jNmIzMmFYQkFBTmRQeDNNVW8wZHJVb2xKblg1TWZFczIzbTQ4NzRrc2o2dEtVakxQTk1pbEpyazdRMGtHaThaUGc?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:10:01 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "862578bbb515ac7e",
+        "title": "【名建築がホテルに】巨匠設計の名作が、北欧モダンなデザインホテルとして再生（Pen Online） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4taHJESFFkUEVjTVlNVjFZVjZUMldqdF9jcUFsYWh4a0pqWTRjbGVkU3ZGQklubEFBOFo4MWkyNlFpSllXbldNcFV2VnBXejlpbW9yVHFrT2ttcTdPZEZ1ZVpZb2JQVXpIVHlKclZZY0N5eFNuLWh1QmJjaWpfZlU?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:04:26 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "b9cce27d21ec142c",
+        "title": "コロニアル住宅のリノベーション、米国のカフェを設計しよう！建築インテリアデザイン・ワークショップ最終発表会2025 - kyusan-u.ac.jp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10dkxiaWlweEZKalZUMHNNb081SHlZZGJRem9uWDhYeEhvbXAxV3hvMTNhU1hrN2FOU19jSHVJenk1RDd2X05CUU8xTW8yNmRDNG1MZlEyQnNNLWFnMTF4OTZPbzd0UC1WNjk2V2JUX2dCbFFT?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:38:29 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "6f5ec4c6f4c3af56",
+        "title": "20世紀のアジアを代表する建築家 ジェフリー・バワの名作『ベントタ・ラウンジチェア』が復刻！ - Precious.jp",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14TjlsWkNuSEMyd0x2Qk1ITUtaeVd4N2RMaWZweGE2WGtwSnpLNHlmRmpwOEJZSFBsUkZOY2lCeUk4cHFsUHpXcms1M3c?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:30:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "96b2ea758f12a582",
+        "title": "野原グループ、建設RXコンソーシアム エキシビション2025に出展（11/25～11/26） - RBB TODAY",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MMFVYVWcwNVVmVjhqVkZYOVN4X2p1a3BYVmpPUkViWjhKREwtbjNqQXphUVBIU3BPMjhFbWY1Vk5MYlVTZ0VidGpGVC03YmNWa1ZveGpKUkI0cVEzU1lHc2lnZlY5dzRYTEljMks3dXNYQmZqRjB1cw?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:18:26 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "5238e2083b5077e3",
+        "title": "バルセロナでスマートシティ国際会議開催、日本の都市開発ソリューションも存在感増(スペイン) | ビジネス短信 - jetro.go.jp",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uako5ZnUwM2tOWmNmVG5jTTh6RVlyTm5uMHR5UTBCc0tGZGVVc3B3MDBMUlF3dEpnTVg5eVM4S295d2xsQ2szRlJVYk9wY19BUWg5aHktYlZpekF6NTBEcUszdTlvX184M2hESllR?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:09:14 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "bc4417c906306372",
+        "title": "プレスリリース：トイレ環境が企業価値になる時代へ 建設業 担い手確保の課題と対策 特許技術で臭わない仮設トイレ『ZoneZero』シリーズ11/19(水)～21(金)ジャパンホームショー＆ビルディングショーにて初公開（PR TIMES） - 毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zYnEtTE9RUnR6NlhObGtudTJ0dVB5NE9mSGY2cW5TWmYyQVFZN1FOVm41ekdVckg2a0VkaHBTQmJYTGxVQjVZQ1JENUlCaU9WQU8yM2p6OGhDUGRGaC1WUkppVDJqY2Vv?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:57:42 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "c2c4ea747388c787",
+        "title": "焼きたてパンと歴史の香り 堺筋俱楽部 大大阪時代の銀行にタイムスリップ 建築を味わう（産経新聞） - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wQlc0b1Rhakl4Ull0VlZZYjVaR21NRFdQX2NUbW8wZDFqeXVnNDRoNHBuU3ZSMUlFZlRLN0ZrM1RuX3JEczZfSFhMN0ZpNWZxYnU0M3ZjeTRsYjhPMDVwaGtKRGdEcV9Lelc2dFJXNGVfbXNVWVFNb0xLclZFZVk?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:33:31 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "3e1741946bcc1a30",
+        "title": "AIが建築確認申請図書の作成支援 日本建築防災協会が構築、無償提供：AI - ITmedia",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YVDVSZnpNODl0SkNnYWlXYmx1Z1cwRkViTnB2a2hXb0FJdVRwVnIwWER1RFM2UDQ0eC1IZS1HZUhRcU9oeDU5SlRRN1pEZzFNRUJtV3VTUzBoVUNUMTBFTnFvdnlTUUFRZWFUQg?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:00:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "46642dc50324d0f8",
+        "title": "初穂商事：建築資材3本柱で安定成長を図る総合商社 - ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObHVsTkZ0SkhnVG1JM284dlNLUk1DMG90alJWQmh0Q25NSS1wWDZrUFNVR3p1Z1NMUjg2NUtXRlphMkJVSlhOMEhTUm5IQ3VBVWZiU0FKcFB1ZU9Od28xbEVGVURXeHRpUUJJcUZXeU1ESnl2VDVjVS0xNnZabDc1Z0hZcDFwSFHSAYwBQVVfeXFMUHVkNzhZV1RENElEOTB6Mm9BbHQ2a3FzU2t6NmZHdm9JTXY3cG5KdjcwekhZY09wekhxZXVhWXg4dkFVOWRLaFhwR3d1ZTZqTmhvb3RvN0NJMFc5QlRhTnpyM1ZKOTBDZzlZaTVzVWlpOFItbGZsa01SZ2Z4QmE3UldUVUIzMy1nVGp5MXc?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 01:58:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "d599e2c66fdf5378",
+        "title": "令和７年度 建築局優良建築設計者表彰 - 横浜市",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3k2T1IwS1pvVTZZMDRMclZ6ZDlZWmJ1QmQzLXRsR2tLOHVTcU9XcndqTTM5a0paTG5US25Pam56c1lOc3lLeXMyMnpOX2hhWTQ5dGtDX2dIeURpaXJUdGxjWF9UUWR3WXp4Z2hTMEJueXBLQXA2MkZleVJoejFwSVhSZmdZN1Ryd3ZUYWdlZUwydF9oRmpIb2JlWXA2TE0tdWZ0d0RB?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 01:23:15 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "1dd5544c945ffa89",
+        "title": "【11月21日（金）セミナー開催】「工務店経営会議2025」に株式会社Gハウス代表取締役 趙 晃啓が登壇！【Japan Home Show & Building Show 2025】 - PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lMXRGOG9WX2xhRXJyaG9PT3RDTDQtYmszTER4aC1CY1h3bG9rUEFkWXE1MGtzYTBLaWY1aGRQMTNWQ1Jja09PMWwtZHRKZVEwd3JGdmNsR0ZoR0lWdVRPUENTbDQwSHdiS1E?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 01:04:05 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "fce11f3c272fff51",
+        "title": "【破産】（有）コモド（北九州）／建築工事｜NetIB-News - data-max.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vMVA2d1F6b0E0amNrTjZiZEg1bHJhUFJyaVo1c3AtMFJOZjJBSE5NQmh5UHM1Ni1jTEs2cEt6WG1ndUN6MWFqSHZoeUhYc2JJY2c?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 00:53:52 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "7c008e317414869b",
+        "title": "愛知県 愛知県決定の都市計画変更案 7件縦覧 - 建通新聞",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWJOdVBSVE1Ob2tsZzBoQW5VTHhad0Z5cmZXamstNzRSQVI5Z012WVlldXd6R3ZxR2c0eGd2aDhsa25WLXpHYUk2M29HU2hyaHVnSVZhN3F2M0pSU3JyeWY2ck55YXhoQmZpSUJ0TlFsc0x0UXhIZF9iVkJEQThZdg?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 00:33:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "ca3e932f5f74e0ea",
+        "title": "「下北道路」事業化へ東京都内で初の整備促進大会、山口県知事「都市計画決定後は国に強く働きかける」 - 読売新聞オンライン",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJSlRVTWg4VEpHSHQ2dHJtaXgya0ZGVHM1V28weUxab0VVVmJRNDRXeWotbUtMN25obmJQN2dwVnlIbWJTazRQbmRzLWpjY1pnY2twWm1Ha2xVbUNjMlNxQ1IxMUViaE1TaE1mbU9HWUZRQQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 00:22:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "df4e0987cded26ed",
+        "title": "羽田空港跡地に「HANEDAえんパーク」誕生へ 実証実験・ロボット体験で新拠点に - Plus Web3",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02Q0hIU1FJUHBQWER1NzBoTFJQZkprem1kWVJIY2lveE9ZSUNWdkRoS0FEWkZ6YkZXTlpXemp5NjBVSEkxNXpaelVRMFpUSDdnZFFxV3VnRGFLcmgyRmc?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 00:08:53 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "571e9227bef294f5",
+        "title": "公共建築特集 近畿地方整備局営繕部 頼本欣昌部長インタビュー - 建通新聞",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObWZ3RExwcFR0UDdScnBhS284ajhZbGRnYUZ3NFdqOC0wUVpUcmVFZF93UmF5ejhyajYza3l6MTF5N2VUelAzbzgwblpkb3cyUURGdFNmSGRucVN4VXR0SmV5R0hQekNMTXlXM0FCS0NVV2xycl9iYk45ZldOY0VlVQ?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 23:00:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "c834691abc180eb8",
+        "title": "鮮やかによみがえる1300年前の首都中枢 平城宮跡で進む古代建築整備と復元画制作 - 産経ニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90ZGRncmQzMEV6VjhoX3VOZFZrVnRuMzJiWEJtQ0MyTEhXSXdmbzNLZ2ZVMklRX0Fhd0djMUVhN1FzZ1dZQnMtaDhGdGU4amVGOW5tTGFYVHh5czlTTjJJZnpQNTBnamlvM2J5aHBXUzRXZkJnbWc?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 22:00:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "0a03c39a6e090984",
+        "title": "小山光＋KEY OPERATIONの設計監修による、東京・世田谷区の「No.R下北沢」。“商業地域の重要な焦点”となる場に建つ複合ビル。街の特徴である“細い通り”に着目し、通りが建築内部に立体的に伸びるように通路やテラスを設ける構成を考案。軒天の木材仕上げで“温かな雰囲気”も生み出す",
+        "url": "https://architecturephoto.net/241644/",
+        "source": "architecturephoto.net",
+        "published": "Mon, 10 Nov 2025 21:56:15 +0000",
+        "summary": "SHARE 小山光＋KEY OPERATIONの設計監修による、東京・世田谷区の「No.R下北沢」。“商業地域の重要な焦点”となる場に建つ複合ビル。街の特徴である“細い通り”に着目し、通りが建築内部に立体的に伸びるように通路やテラスを設ける構成を考案。軒天の木材仕上げで“温かな雰囲気”も生み出す 小山光＋KEY OPERATIONの設計監修による、東京・世田谷区の「No.R下北沢」です。 最高高さ：13.840m",
+        "support_count": 1
+      },
+      {
+        "id": "99f4997bbc1c09f4",
+        "title": "ナカノフドー建設／シンガポール現法５０周年記念式典開く／高品質な建築事業で実績 - 日刊建設工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5Y2JRZHFiYVhKN3JNYS04RGRmNXVFWVlfNTBGd05MX2dQQXZqLTh4SXp6cjhPbDBPUTExbkVvTUdWbmpQTDRB?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 21:04:26 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "20b990e68dfcfbd5",
+        "title": "横浜市、横浜建協ら４団体／建設業の魅力発信で連携／コンソーシアム設立 - 日刊建設工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NUVN2c3loMU92LV95TmFNUEprOXpjcW1ZWFl1NzJlSV9GY2EtbUxpT29WbjNyNktvTU5VUGRDQVJYbWI4TVlV?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 21:03:24 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "da2618dea672278e",
+        "title": "財務省／生産性向上見込んだ予算に／社会資本整備で見解 - 日刊建設工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Hcnptdl9EUlFLc3BJSWcyNC1XX1NJMVVIWDhRQ0RPY05INU5wdUE3bWJkZ0FhempjWUFPbG1BUFNKajhWaG5j?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 21:03:24 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "73e71b9ff0948dd9",
+        "title": "上位31作品を選出/ウッドデザイン賞2025 - 建設通信新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CYUxYZ1FYNTFFMTRmR2tUMEpFZTZ1U1ZWZzJCM091ZldNZ0FxMXBvTUEwc3dWcFBabU5jSzYtTHdFQ094ZUljOWhNbUVwQzR2alpuYzBfLU8?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 21:01:24 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "a247c22e04d6f4ac",
+        "title": "連載・建築設計事務所変革の萌芽(12) - 建設通信新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96WXlPd1ZnUl9aYlNhZVFFWFZISXc2MzcyZnJBS2xMcnhsZ1JEZE5DRkUzVW5IYnN6N1QydENBRmloWWZHenlCV3RKU3VxdXo2ZXJ2ZHJGSjI?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 21:01:24 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "0886e5d025151afd",
+        "title": "下関北九州道路 早期事業化を/東京で整備促進大会 村岡山口県知事「年内の都市計画決定目指す」 - 山口新聞 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83QjVnYkdHWjdyblpfWkRvUEhmQms2aE5STDNXRlJ2YkRJay14MFN5bnpQZnRXLXI2VDlEd1IxdEZIRXNSSmJxRzlidjdvMXZPNTE0VUlsNi1kZkV1dWlkeENJWVZaRnRV?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 21:00:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "7c590b4be8d7201c",
+        "title": "建築資材卸のミツイバウ・マテリアル ベトナムへ進出 初の海外工場、屋根材など製造 - 中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84TUlLSW1wWDNRT3AtQ29rWW1kd1FsMVVFOTZmdGs0UDhGbzhTVWpXdEI0MmtQSTM1OVhUclNYRVQybnFNLW5DdjBxWDZGSWRFcUVNZ2VlNzBhYTgwOV94elk5SDJKVDh0emhCMkZYZlJmS28?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 20:11:19 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "37e5670b987a5e99",
+        "title": "京都のJR駅前タワマン計画、地元住民ら建築確認の取り消し求め審査請求 「高さ制限緩和は不当」 - 京都新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05c051UU9rMkF6emw0bS1wNzZnb3BoRXUxUzVYdXhCS3NySVZSMkF5aWw1R2FtUm1yOW04RHZxUjBPLUFvV09FSVVLanpHMDhiMXNOc3REdUQ?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 20:00:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "53d8cab2cdc29ef8",
+        "title": "大和ハウスが住友電設にTOB、総額2920億円 DC市場にらみ垂直統合 - 日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Oenh3ZWtYbGhpZlhZSVN3eG5vV19uM3JFUmRzSFdOYVZqSDUyR0g4a3FvSmNncWIzYlR2bDFoaDA3NXZFRkp6cnlwZnc1SFNFcTlMSU1hY3ZDdW1rSkljZFFMbmFZYkE?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 20:00:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "8e9b0f8e25d2dfe9",
+        "title": "高木灯明寺線の拡幅 踏切平面交差に変更 市都市計画審議会 | 政治・行政 | 福井のニュース - 福井新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zTy02bUlDNHlKX0hpNDduUHVLaG9OZ3BqYkRqa0lhVURqTnRCd0F5VEpiVUJjR0FXYW85NVNtN3RpeThuekpXaDdXM0psV3FJVGtZckxROTRoR29Jemc?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 20:00:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "3f15ab5cb05c57b0",
+        "title": "コンクリート構造物の点検及び調査のM&A案件情報 - 日本M&Aセンター",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10TjZENjE3anF0cC1SeGxDSVhadmpQdmJmeDJUblp2V2Z5YWE1Y0hFRDFwQUNiWE51bnN6b2tMUnJQUlVteUJBVTRJY0Q4UVQxNGREM0dHV3B4X1FlcnBnUDRnVTRrWlRTeUVpYTIxWGg2b1U?oc=5",
+        "source": "google.com",
+        "published": "Mon, 10 Nov 2025 19:06:35 GMT",
+        "summary": "",
+        "support_count": 1
+      }
+    ],
+    "経済": [
+      {
+        "id": "5ca4d8d01d664c83",
+        "title": "【海外市場の注目ポイント】グリーン英ＭＰＣ委員の発言など - みんかぶ FX/為替",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBEdGVFREx5S2Z1TVpQWjI1cUVmMWc2cHQ4bGZfdkZycFVTS2hJRTN0cGd4QS1OUHNIMmJrRS1yUmtLOUI0WXdZRg?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 05:50:53 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "5d9d3e0a38c4c689",
+        "title": "JR東日本、｢Suicaのペンギン｣を26年度末に終了 新たなキャラに刷新 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wa1N6QURBcUF1UUN0enREc0MxSHRxV0FFY1dMQ0RKNHBTRTc1NmRLMS1rajJvSkFRZktFejl3QW52MlR1b3dzX0FWZ2hMTVZGb1hpVnZjWmROMmZNcmdWMHUyUFBpaU5SZEpBYQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 05:50:10 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "f29e15aa4125fa2c",
+        "title": "村井理子 義父、復活！ - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RUWVfdFVfTWl4Mll1LXVmd01LbVNlM1BHdG9qNmpWaGdGNHRIWE12djFvZlIxYzZrdlZHTkczZXJxeHFZQWtDOGZaMXY3VHRsWk1xLVY3dElPZC14bjZsZGd1ZnozNU1WLTFxLQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 05:30:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "098c3e6a661cf21c",
+        "title": "遮断・制限より会話 仏教大学教授 原清治氏 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xb21mZ3g0SXRaakpLblJOWXF4U1Q3SllJV2kycXUzMnhJa1RxYWpWRXNvY0VHMDBCMThfRDhHeGtrQTFuV2lyVGpEMllSN2dxSGMzZEJLUHVZWUVPR0lJUXBYLWliT205NGxuZQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 05:30:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "77220eaa1a1b89ac",
+        "title": "JR東日本、Suicaのチャージ上限額30万円に コード決済で26年秋導入 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TenpIVmJmX0VWUENlRlh6UUZQMnptdW9SbnRUXzNyVjl6VnlpTUZqdkYtSk8wb3phZE1YSDBTMjUwUE1kRUVjbWpmNjNtdXhrQUYxWlpiQUtsS3VLcTIwREtSYnhOd1l4aGE4YQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 05:19:47 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "fafdb7a0b3f31159",
+        "title": "Suica、26年秋に「コード決済」対応 Suicaペンギンは「卒業」 - Impress Watch",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EcGdtRWpIWWZqSFNqTjc0WHdFaktLVG9FM0U1M3NvQzJEaTFiMmxEaXB0ZkJoU00xSXd2Y0pScHpRUC1KMS14YzBPNmQ2YkZndlBSa2NCcDRzWUxqUE9xWmRXYXM?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 05:15:58 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "7c0cc3fe6a59a96f",
+        "title": "金価格の高騰が覆い隠す中国のデフレ圧力－内需低迷は変わらず - Bloomberg.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4za0dQcHJTUVVrbDFqdWVaVGlMQm1EZkhUUWZxZmltTkhTU3NsV2QtM01uRDJjWWE1OVRLdzNRWHR0eUJQVHhMTDVPenphcy16VGhEYk1kcVM5emJKYUx5TlFqU0tJTjdsXzNoNlFmNUZkc0RwaXc?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 05:14:25 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "412db54bf9eed6e7",
+        "title": "（再送）日経平均は７０円程度安、売買代金はキオクシア、ソフバンＧ、フジクラが上位 - kabushiki.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE92YXo4Y2s4UW9mVmx4ZC1rUWtEMXZMYjRsalJ0eUJmNnk2NThObkJOeWZ0VFBGdDlxTDU3dU5OczZQVlF6cmk0?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 05:06:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "467687b18cc1a50f",
+        "title": "海底ケーブル防護へ有識者検討会が初会合、法整備など視野 総務省 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNMlRQNXBhdFBFWkZkQmtrbGRUY1ppRlU1Z0FRTzVfdHVLRUZPa214dDJUb3hRenVCSDAyVjNiOVhZaVM1WWdKQjNPeHVaeTZoUEFBWHNyNU1TdWNzLVZfS3BqTXBRY2kzYmlkSg?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:45:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "32db1ace49ef3450",
+        "title": "飲食店倒産が最多 1〜10月、牛肉・コメ高騰で焼肉店が苦戦 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91ZUJCZFJxM21ueDh2djF2OWhCbEFURGlCSE1ROHA3LWxPczZPWkFUSjZBVnp1Q3RmMXF4NEtPQWtsS2dPT2NuaW9xbGUweEtqc2xmQ3U4bE9lTnlBOWpNeUtZOGpPVnJEdVRsdg?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:33:03 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "fe288dedb965c1e7",
+        "title": "中国、レアアース対米輸出規制緩和で米軍関連企業を除外か ＷＳＪ報道 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQnB6OUc2QllrU0tQQ09kYjdfNXlEelE2OUFzLXhoaGwwaUNiZ3diZXM3OEl2ajN2T0JrbVk3UTEzVEpnSGpzZk9FTUZ6bmlIYkwtWUp0VTFnTHJfenlhc1RGNk44MW1fUUVaVjY5S3k3bjg1UjJVcXJkRnZWQlVCV3gtX2xnWVJE?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:33:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "f7cf0200432a0827",
+        "title": "決算:大成建設が一転最高益、26年3月期最終11％増 配当積み増し - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QQms5SGRTdGYwS3lud0VlOVZuOHRVcHpmUW5OSDhRWkRNdG1YeW81d1lMZ0VuV3VPQlA4WXZCR0hpQU9nRE1ZY3JzMGNBNTlpZ28zOGtqb2ZzejRJZVdVeV9JWXpmZG1ReFlTLQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:30:18 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "0af3622dae25a0bd",
+        "title": "欧米為替：デイリー見通し ドル・円／米インフレ指標にらみ(フィスコ) - Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWS1RVWRsYnBSOFpQSFlObk82c1dvVGk3SkpPV1puWlZDSlBTTWdSdm1SWHdjdGxpUjdsVUk4c3JQYURuT1NERm9EZlZlU1BJX0NlYmRXLWkxMEJrdUNTbVJ0bFh5SVpKcXU3VmZtMlRQc2E4MXZEUUdQcl9XV3k1ZUNEc2t4bG8?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:17:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "e702252153e9d209",
+        "title": "高市首相 日本経済はデフレを脱却したとは言えない(みんかぶ（FX）) - Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSzRVX1dRWHMtRHJkZ1RlMTF2Nm9iTkd5SGhMcUlaa1ZtYjY5SllicUE1Zm5BcGsxVFhqallzNW1LMFBUNEMxQTFLX1VBQkwyQ1JoVzRYZlc0eXl6V085a09FS2xSSFBZX2dTdWRWcEhnYkw4LWVnS3UtYXZaRHdOelpiTG44RHc?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:14:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "f8f6d89bc02f23a4",
+        "title": "高市首相 日本経済はデフレを脱却したとは言えない - みんかぶ FX/為替",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kN3dsa0xZYVI3UXhpOVE0N00wR05mbk5Bb1FXdkRFQTZVZHBTd0tmVTZCTUZkOENsZGRFcmhiQVFnaVJOcm80LQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 04:04:54 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "c0676992bb639bc8",
+        "title": "Netflixが米に初のエンタメ施設 実写版「ワンピース」で謎解き : 映像 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82NERPVmw4bnlDSFU1R044N3hLTE5qa0FOQ21OTmtGUGFwVElQcGt6RzZxRFBKWTJLcUdRa1pJSTR2dExlR1Zrd19ZQ2NWdzVHXzdLVw?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:48:24 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "7d540cfee5f7cde6",
+        "title": "トランプ氏、台湾情勢巡り中国批判避ける 「同盟国も我々を利用」 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80VWZfLXpoS3VKb1A3Z2RhdWJkZ0UySjQxSmEyZms3dmZlb1VwMm9WbzZ3ZDkxZzlrQzVsYkZWcTZhU2NXX0RudEd5MmE5QU9yc1hUbkxQYjI4RzVjLXlyYXRzOGtzazkxR0ZPVg?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:43:01 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "b73e4c281e12a974",
+        "title": "セブン、店頭調理の「できたて麺」スタート 専用マシンで調理 - Impress Watch",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4bzQ5RlpfbTYzemRVczRhQU5tbHQ5QmliMFg3UGg0OEtzTS12NmpCRmVYNk1xT2tEWkVwOVpXc3pybU5mWW9KNWlzOW5Jd2ZkS1M5bFdXNGJ1bW1KVXZfNnJVcTc?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:31:26 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "aa7a77a7fe588400",
+        "title": "福岡・熊本・沖縄エリアで投資用賃貸マンションを展開するグッドライフカンパニー＞福岡は人口増加、熊本は半導体、沖縄は観光が牽引、新政権の積極的な経済・金融政策を追い風に、今後も拡大の見込み記事 - 西日本新聞me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81UFBkWmJ5THFRX0xHMmFQZlp1MXJsRUpmRWwxZzZhUHhWbmxIbktJUnJBZXlqeGFpUWVZWHZLQi15NWtZN1d4TGZsaTQ2UV9ULXVGdmVn?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:31:26 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "741453e111fcb862",
+        "title": "米ＦＲＢ当局者、追加利下げ姿勢に濃淡 ミラン氏は0.5％利下げ主張 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaXc0WmtkUnNic2VRbGhWaDVRNGkzRmRHRFBBTkVWS0VxZ0dMT3Eya1dmNHR3X01tUThLZTJfTnpxaTBlX21pcTYtM282ZGdCalFoMEZBcHR5ckw1X3lWZUYza1ZRWVJvazJsdG1Gc1UzSjBDSnUwRTlEMzlPYS1JMQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:31:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "1ae08d9f94f3295c",
+        "title": "（論壇）「強い経済」へのカギ - 公明党",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OX1ZWUENUOEcwUDdtMzZyNnlkTGpJM092TlVUOV9ac2xVRGRjSVBuTjZ3cHQ1OTZIYUlNOWZXMDhLVzJMU0p3a1JtOEUzLXJGbFhxQg?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:26:17 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "5fc441da26c48b44",
+        "title": "ミズノ、第102回箱根駅伝オフィシャルグッズを発売 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sdWcxT3BtTlZJWEpGbTNPbzRqdmp6Y3VNNVo2MDc2Z0xFOUdPYUdPNUpfdkd4RUZLQnRYVGJpR1FjaHFGYlFIdHJVTUtxWWdmcFljVWJBbjBiazF2WWtDUGRrdy1fUnBIQmhhTw?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:07:57 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "8a32268fb1f6a5ae",
+        "title": "ソニーG、今期営業利益を1兆4300億円に上方修正－鬼滅映画が貢献 - Bloomberg.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54UktKQnBWSnhwZG9aR1J0cmU3SWVpQWYwaUhzTV9KbXVOQnR0WWh2UkhOYms3el9sRWhyS3V3VUJiYkI4bXVpa1p5LWYtU0lXWjhpekcwbE5TRUZxZ0NsRXZNSWtBZ3FUWndoUVVfSkY1ZVdWd2c?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:01:34 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "d3a29747dfa3c4ca",
+        "title": "鹿島、今期経常を20％上方修正・8期ぶり最高益、配当も20円増額 - かぶたん",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HZXM0cGtHWjBBMVU1WmtFSkZKXzBYM3pma2psZzhhV1dNR3d0V1RxZHhPblZ3bXRLWWZXMTdXT3E1cUZ5V2hSR1RiY2s5SDZQREQ0?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 03:00:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "2c7dae2396de10d4",
+        "title": "トランプ氏2000ドル関税｢配当｣案、コロナ期の現金給付を想起 - Bloomberg.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VLW5nSmU4TC1GSml6MjhrMUFaVDRJUGU2UXpXYnZCYXduVld4dlRldm56cXlHYzk1b0dMcS0tbS1DbjVnTVQxSEhtVjRoaGVsZmd0R2NWVERIWVJSOHR0dml0ZmxLcU1VRmFXZkZsTUl1dmhycmc?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:57:22 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "7b731dd128239ec3",
+        "title": "高市政権で防衛政策はどう変わるか、中谷前防衛相と生解説 あす正午から - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DdWk1bkNONmdTUjFjQWRqaDh4MExQcDVsVUx2MmpXOEtzLXYxM3h0ZVQwMVd1dzhKU016bU1LWUhyNDZoeEFqLWlRYU04Qk9OdnJPNzlUNThMS1pvZWNwTQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:56:37 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "a03661a254b10687",
+        "title": "三菱ガス化学の株価ストップ安 26年3月期は一転最終赤字 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rNGIxNzVsNDhaNEhLUjdMVXoyUmo5RWJFanhqSG8xYzhRRjRQVmpGam5sN05yenl0UHh4VktqdG04bnZGdVhWcjJXSFdBRWxrWjBoVkNUd0FyTlM2Wm9xVnRPVnl6Tm1SUVA4SQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:55:57 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "8343ff2bec644efe",
+        "title": "名村造船所、株価が反落 4〜9月43%減益を嫌気 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yLWV3ZzZjUDdZWW12RXlUclpIQTZfczNSVnI1aEFBUEhtOFNDTV9pTUJPZVpqTTBheHF6OVRMU1BmY1h6dTJ5NFNsSUlKNFFIaFF6b2RqX0hyeUVYTTRQZVMySDg3MVNpLXM2Xw?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:54:56 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "eb63354dbe95c2b9",
+        "title": "日経平均株価続伸、午前終値は219円高の5万1131円 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YQkVXYWJNb3JnVlVwRk9oTW9uMVB0NmVTRkVvSTlQSVhKR0t1eDMyUEEtaWQtb1Bfa21mQWpYekQ1MVg0dTR2MVgydEF6aFRwWmVRY0cta3pNa1Vpdml2VkRaTmhKcjNMQWdqaQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:51:54 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "241e6d890d3ad340",
+        "title": "東証前引け 日経平均は続伸 米株高が追い風、決算銘柄の売買活発 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHRDZ5b3dLTDdjYUVBNHl2SzJNNkhkdS1idnNkOGF6TnFDVDZ6Q3hvMlFHV3ltZU1oeHRfTmgzczBVMFJtbktteVVwOHVCNW1TOUtILWlqRzVWTWd6a0hUdHZXcWs4VVZqNGNPQg?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:50:19 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "a15687e05c4b6ca9",
+        "title": "新車41万円！ ダイハツ新型「\"免許不要\"のちいさな四輪」がスゴイ！ \"後輪駆動\"＆ゴツイ大径タイヤの「1人乗り仕様」！ \"段差もヨユー\"の走破性能を誇る斬新な「e-SNEAKER」とは？ - くるまのニュース",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5JV2dCVWpyU3pyMElVaHlfV05CdzZSUy1SYmxTVklqY0NwYUk5Q25MTmwzalBHYlF0WEtyZ2RXMnc0SmhmWDl5NmJB?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:45:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "ae075d1b3c089071",
+        "title": "日経平均午前終値219円高 シャープ6%上げ、にぎわう出遅れ好業績株 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ETmxKTmIyUXI3U1BzdGRsTnVGTnh4VDc0V3lMZXBaMUZYMFgxSndvSXJydG9PRkhmbTllaDZ0WF9PWkNzU0x5VUxfUHdMLTY4YjNvSHVuWmYxMmU1VFdkWENyXzE5SkNhM0RNNQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:42:49 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "faac08e97d4ac419",
+        "title": "米上院がつなぎ予算可決、政府閉鎖解除近づく－次は下院が焦点 - Bloomberg.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qSExCWWY2TXlkclFYdTdQWWpCenpGVThHMklsdlVMOVoySzEwMmVKeFo0OXAzQXp5Q3VCWEJ5M1ZUaWlfd09OUkNWYXhMdnBWNGIwcHdKLVBjeXBvMjZSYUtDdVAwMDc4aElMTDNBbEFKX0M0T3c?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:30:06 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "63eaeaeef49d9044",
+        "title": "ソフトバンクGが伝える熱狂と不安 「AIバブル後」に目を向けよ - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRSW5HUXdwUXNjY0IxcGVBZWk5eWNWSDlKcURZSFctcktocWtnRVhxZzNaU3hsUHdIRHJLM3ZfQW1ZNE5TZGV2ZzZ0LTUza3ltck5IT2NuTTJ2WmZWSEFQSmRIVDFzZHNLREJUdA?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:30:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "7ab8452bb047517a",
+        "title": "成長政策のための条件を整えよ - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UekJ1VmpCWlJJRGtpcmgxakc3d3BtbUlOVUs1djQtVlc4eldPVnkwd2p0aGxDd2I2MjlDQUVMRVF0U3FEZE8wT3FpeHJqajRkY2ZqNXpScGJ3LVJwc1JUakotMmRsbnZoS1ZOVA?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:30:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "92b8e73ce3db0ea5",
+        "title": "大阪・茨木のアマゾン倉庫で火災 従業員ら全員避難 - 毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xQUVjbHdxWHptWUlFdmZlR3djZ0ZfRmZYYTFqSGprbWdETXRLa09kU3pzTzlSdlZtZlJRNDNJYmNsSFVsdnMxR3JPa01iYlNCcEdKbjRORzQtMFRNd0JrbzQtRkFiVXZK?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:17:41 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "4a5e4ddf766cb63b",
+        "title": "NZ経済指標【2年インフレ予想】(みんかぶ（FX）) - Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXB3VWE4NUJySWxVTGpEd0ZQV2FKODRpeFdjNVVETVFhNUl3QTgxYWx0V3hZc2lUQVdwVV85Zm9MOG0yZEx4ZU9RSEFZRG4yQVRJN3VPcjNFTWx0VEFFOEw0aEQ4cFVKbW9iYjViVThvWTVyc0x6YTVNNWJHNV9VbXB2bC1nd0k?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:13:51 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "ba91d0d1b4348b1c",
+        "title": "資生堂の株価もみ合い 25年12月期赤字転落も「悪材料出尽くし」 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15aEFJQ0dmOURYcjMxSXY3SEF3cGpYUUxuNks3bkNBbnNObHN0SHB6TTRwNk55Mk1UUk9ScnFzU3otX08zTnFVa1hYU3I5Q0FDM2hwNnd6N2tqYThzVkpLS09zV1pBQXctbjdGWQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:07:17 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "cc8bae7695530e8d",
+        "title": "都営地下鉄工事で談合か、東鉄工業など6社立ち入り 都の関与も調査 - 日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1udksyOTJwcXd5QWsxbVdXdUd1ZWpGWDZpdkVMYnNoN0d5WUQ3MTJBYy05dmpZTVlqcWRRUF9palM3TjZSeC1mME8xUlBPT3pEc1JldWR6WWJxdVhWSjZzQzNkaGo5WHByeHZYQQ?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 02:00:00 GMT",
+        "summary": "",
+        "support_count": 1
+      },
+      {
+        "id": "ff461c4ec697ad64",
+        "title": "まもなくNZ2年インフレ予想の発表(みんかぶ（FX）) - Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUwyS2RUbnFyZGVIbVlLaEJMUUNXWnVoVEZpa3d0REQ5ZUNENkVBNFNKSkdHNzZxd0RNUjN1cTJZRTRwV205TzVQQ3ZlRG1jNjF5dWJURy16NzZSWDB4cG41RDZfRHhVMExmS20waDVYUWxIeGdwZ1Nyek04clJQY1dNSmxjSUU?oc=5",
+        "source": "google.com",
+        "published": "Tue, 11 Nov 2025 01:52:11 GMT",
+        "summary": "",
+        "support_count": 1
+      }
+    ]
   }
 }
