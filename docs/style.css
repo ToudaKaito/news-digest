@@ -7,6 +7,7 @@
   --muted: #64748b;       /* slate-500 */
   --line: #e2e8f0;        /* slate-200 */
   --accent: #111827;      /* neutral-900 */
+  --accent-fg: #ffffff;   /* アクティブ要素上の文字色（ライト時） */
   --link: #1d4ed8;        /* blue-700 */
   --chip-bg: #f1f5f9;     /* slate-100 */
   --badge-border: #e5e7eb;/* neutral-200 */
@@ -21,7 +22,8 @@
     --text: #e5e7eb;      /* neutral-200 */
     --muted: #94a3b8;     /* slate-400 */
     --line: #1f2937;      /* slate-800 */
-    --accent: #ffffff;
+    --accent: #ffffff;    /* ダーク時はアクティブタブの背景を白に */
+    --accent-fg: #0b0f17; /* 白背景上で可読な文字色に */
     --link: #8ab4f8;
     --chip-bg: #111827;   /* slate-900 */
     --badge-border: #374151;
@@ -56,7 +58,8 @@ body {
    ========= */
 header {
   position: sticky; top: 0; z-index: 10;
-  background: rgba( var(--bg-rgb, 255,255,255), 0.85 );
+  background: rgba(var(--bg-rgb, 255,255,255), 0.85);
+  -webkit-backdrop-filter: saturate(150%) blur(8px);
   backdrop-filter: saturate(150%) blur(8px);
   border-bottom: 1px solid var(--line);
 }
@@ -90,12 +93,13 @@ h1 {
   font-size: 14px;
   cursor: pointer;
   transition: transform .06s ease, background-color .15s ease, border-color .15s ease;
+  -webkit-tap-highlight-color: transparent; /* iOSタップ時の灰色ハイライト抑止 */
 }
 .tab:hover { transform: translateY(-1px); }
 .tab:active { transform: translateY(0); }
 .tab.active {
   background: var(--accent);
-  color: #fff;
+  color: var(--accent-fg);  /* ← ダーク時の白飛び対策 */
   border-color: var(--accent);
 }
 
@@ -143,6 +147,7 @@ h1 {
   font-size: 14px;
   color: var(--text);
 }
+.card > div:last-child:empty { display: none; }
 
 /* =========
    フッター
