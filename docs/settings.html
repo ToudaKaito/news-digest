@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>設定 - Daily Digest</title>
+  <link rel="stylesheet" href="./style.css">
+  <style>
+    /* 軽いフォーム用の追加スタイル */
+    .panel { max-width: 720px; margin: 24px auto; padding: 16px; border:1px solid var(--line); border-radius: 12px; background: var(--card-bg); box-shadow: var(--shadow);}
+    .row { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:12px 0; border-bottom:1px solid var(--line);}
+    .row:last-child{ border-bottom:none; }
+    .row label { font-weight:600; }
+    .note { color: var(--muted); font-size: 12px; }
+    .actions { display:flex; gap:8px; margin-top:16px; }
+    input[type=number]{ width:120px; padding:8px; border:1px solid var(--line); border-radius:8px; background:var(--bg); color:var(--text);}
+    input[type=checkbox]{ transform: scale(1.2); }
+    select{ padding:8px; border:1px solid var(--line); border-radius:8px; background:var(--bg); color:var(--text);}
+    button{ padding:10px 14px; border:1px solid var(--line); border-radius:10px; background:var(--chip-bg); cursor:pointer; }
+    button.primary{ background:var(--accent); color:#fff; border-color:var(--accent);}
+    .topbar{max-width:960px; margin:0 auto; padding:12px 16px;}
+    .topbar a { text-decoration:none; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="topbar">
+      <a href="./index.html">← 戻る</a>
+    </div>
+  </header>
+
+  <main class="panel">
+    <h2 style="margin:0 0 8px 0;">設定</h2>
+    <div class="note">設定はこの端末のブラウザに保存されます（localStorage）。</div>
+
+    <div class="row">
+      <label for="items">表示件数（各カテゴリ）</label>
+      <div>
+        <input id="items" type="number" min="5" max="100" step="5" />
+      </div>
+    </div>
+
+    <div class="row">
+      <label for="summary">要約を表示する</label>
+      <div>
+        <input id="summary" type="checkbox" />
+      </div>
+    </div>
+
+    <div class="row">
+      <label for="defaultTab">起動時に開くカテゴリ</label>
+      <div>
+        <select id="defaultTab">
+          <option value="">（自動：先頭）</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button class="primary" id="saveBtn">保存</button>
+      <button id="resetBtn">デフォルトに戻す</button>
+    </div>
+
+    <div id="msg" class="note" style="margin-top:12px;"></div>
+  </main>
+
+  <script src="./settings.js"></script>
+</body>
+</html>
